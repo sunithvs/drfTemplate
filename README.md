@@ -1,7 +1,5 @@
 
-drf_Template 
-
-
+drf Template  3.0 
 
 This is a django project that include basic functionalities needed for mostly every projects.
 it include 
@@ -10,3 +8,4 @@ it include
   3) Loggin
   4) Swagger
   6) django rest framework
+
