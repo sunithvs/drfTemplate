@@ -1,5 +1,5 @@
 
-## Django rest franework  Template  3.0 
+# Django rest framework  Template  3.0 
 
 <strong>This is a django project that include basic functionalities needed for mostly every projects. </strong>
 
