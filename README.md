@@ -1,5 +1,5 @@
 
-# drf Template  3.0 
+# DRF Template  3.0 
 
 <strong>This is a django project that include basic functionalities needed for mostly every projects. </strong>
 
