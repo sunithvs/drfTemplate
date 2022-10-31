@@ -3,7 +3,7 @@
 
 <strong>This is a django project that include basic functionalities needed for mostly every projects. </strong>
 
-## It includes 
+# It includes 
   1) Authentication
   2) Admin Site
   3) Loggin
