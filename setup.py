@@ -1,7 +1,7 @@
 import glob
 import time
 from os import system
-#basic setup script for this template
+#basic setup script for this template that include installation of dependancies and allllllllllllllllllllll
 venv = glob.glob('*/bin/activate')
 if venv:
     system(f". {venv[0]}")
